@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GettyImages.Api.Sample</RootNamespace>
+    <AssemblyName>GettyImages.Api.Sample</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GettyImages.Api" Version="4.7.1" />
+  </ItemGroup>
+
+</Project>
